@@ -3,6 +3,13 @@
 [![Gem Version](https://badge.fury.io/rb/gauntlt.png)](http://badge.fury.io/rb/gauntlt)
 
 # gauntlt-fork - Unit cs-pipeline
+
+Dette er repo er til for å kunne lage egen-definerte tester med gauntlt. Vi har bundlet et eget Docker image som tar i bruk gauntlt og egen-definerte tester fra dette repo. 
+
+Koden for infrastruktur (Docker image) er tilgjengelig på Unit sin bitbucket instans.  
+
+# gauntlt
+
 Gauntlt is a ruggedization framework that enables security testing that is
 usable by devs, ops and security.
 
