@@ -120,11 +120,11 @@ fi
 
 
 # install Arachni, from a gem
-if ! type "arachni" > /dev/null 2>&1; then
-    gem install arachni -v 1.0.6
-    gem install service_manager
-	sudo updatedb
-fi
+#if ! type "arachni" > /dev/null 2>&1; then
+#    gem install arachni -v 1.0.6
+#    gem install service_manager
+#	sudo updatedb
+#fi
 
 
 # start gruyere
